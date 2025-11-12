@@ -74,7 +74,7 @@ export default function ContactPage() {
           </h1>
           <div className="h-1 w-36 bg-gradient-to-r from-primary to-transparent mx-auto rounded-full" />
           <p className="text-lg md:text-xl text-muted-foreground max-w-4xl mx-auto">
-            I'm always open to discussing new opportunities, projects, or just having a conversation about technology.
+            I am always open to discussing new opportunities, projects, or just having a conversation about technology.
           </p>
         </motion.div>
 
