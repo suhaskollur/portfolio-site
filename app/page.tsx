@@ -119,7 +119,7 @@ export default function HomePage() {
             className="flex flex-wrap items-center justify-center gap-5 pt-6"
           >
             <Button asChild size="lg" className="group shine relative overflow-hidden bg-gradient-to-r from-primary to-primary/80 hover:from-primary/90 hover:to-primary/70 shadow-lg shadow-primary/25 text-lg px-8 py-6 h-auto">
-              <a href="/SuhasKollur_Resume.pdf" download>
+              <a href="/portfolio-site/SuhasKollur_Resume.pdf" target="_blank" rel="noopener noreferrer">
                 <Download className="mr-2 h-5 w-5" />
                 View Resume
               </a>
